@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">State Change Activity</string>
+    <string name="this_is_my_first_app">This is my first app!</string>
+    <string name="click_second_activity">click second activity</string>
+    <string name="click_third_activity">click third activity</string>
+    <string name="this_is_another_activity">This is another Activity</string>
+    <string name="this_is_first_activity">This is first Activity</string>
+    <string name="MainActivity">MainActivity</string>
+    <string name="open_second_activity">Open Second Activity</string>
+    <string name="new_activity">New Activity</string>
+    <string name="go_back_to_mainactivity">Go back to MainActivity</string>
+</resources>
